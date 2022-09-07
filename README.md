@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsathiya91&label=Profile%20views&color=0e75b6&style=flat" alt="gsathiya91" /> </p>
 
-- 🌱 I’m currently learning **Full stack developer - MERN**
+- 🌱 I’m currently learning **Full stack development - MERN**
 
 - 💬 Ask me about **MERN, HTML, CSS, JAVASCRIPT**
 
